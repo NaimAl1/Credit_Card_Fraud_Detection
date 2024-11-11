@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Fraud Detection
 
 **Objective**: Developed a machine learning system to detect fraudulent credit card transactions, focusing on precise fraud identification with minimised false positives.
 
